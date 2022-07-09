@@ -1,0 +1,26 @@
+{
+  "posts": [
+    {
+      "id": 6,
+      "firstName": "Ayesha",
+      "lastName": "Anum",
+      "EmailId": "ayesha@gmail.com",
+      "active": true,
+      "emailId": "jjjjj@iiii"
+    },
+    {
+      "id": 9,
+      "firstName": "Jorge",
+      "lastName": "Abad",
+      "emailId": "kkk@ggg",
+      "active": true
+    },
+    {
+      "id": 10,
+      "firstName": "sergio mario",
+      "lastName": "mario",
+      "emailId": "pelado",
+      "active": true
+    }
+  ]
+}
